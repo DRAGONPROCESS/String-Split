@@ -11,7 +11,10 @@ function -> capacity()
 operator -> []
 }
 
-function -> split(string,const char*) ~ return splitC
+function -> split(string,const char*) ~ return splitC 
+
 function -> stoc()
+
 function -> SplitToInt(string)
+
 function -> SplitToInt(splitC)
