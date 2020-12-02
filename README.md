@@ -13,7 +13,7 @@ operator -> []
 
 function -> split(string,const char*) ~ return splitC 
 
-function -> stoc()
+function -> stoc(string,char*)
 
 function -> SplitToInt(string)
 
